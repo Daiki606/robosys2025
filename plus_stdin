@@ -1,1 +1,5 @@
-print("hello world") #hello:)
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2025 [Daiki Yamashita] <daikiyamashita00@gmail.com)>
+
+import sys
+print("hello world")
