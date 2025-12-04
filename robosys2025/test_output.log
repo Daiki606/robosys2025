@@ -1,0 +1,24 @@
+[INFO] [launch]: All log files can be found below /root/.ros/log/2025-12-04-03-41-49-946430-3fc29602a634-62
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [talker-1]: process started with pid [64]
+[INFO] [listener-2]: process started with pid [66]
+[talker-1] [INFO] [1764819710.872484791] [talker]: Publishing: "Hello: 0"
+[listener-2] [INFO] [1764819710.873649083] [listener]: Listen: "Hello: 0"
+[talker-1] [INFO] [1764819711.351450542] [talker]: Publishing: "Hello: 1"
+[listener-2] [INFO] [1764819711.352310833] [listener]: Listen: "Hello: 1"
+[talker-1] [INFO] [1764819711.854301667] [talker]: Publishing: "Hello: 2"
+[listener-2] [INFO] [1764819711.855493667] [listener]: Listen: "Hello: 2"
+[talker-1] [INFO] [1764819712.347050834] [talker]: Publishing: "Hello: 3"
+[listener-2] [INFO] [1764819712.347424292] [listener]: Listen: "Hello: 3"
+[talker-1] [INFO] [1764819712.851362459] [talker]: Publishing: "Hello: 4"
+[listener-2] [INFO] [1764819712.854227001] [listener]: Listen: "Hello: 4"
+[listener-2] [INFO] [1764819713.141673584] [listener]: Listen: "Hello: 42"
+[talker-1] [INFO] [1764819713.350054834] [talker]: Publishing: "Hello: 5"
+[listener-2] [INFO] [1764819713.351089668] [listener]: Listen: "Hello: 5"
+[listener-2] [INFO] [1764819713.539494626] [listener]: Listen: "Hello: 43"
+[talker-1] [INFO] [1764819713.851706376] [talker]: Publishing: "Hello: 6"
+[listener-2] [INFO] [1764819713.852524960] [listener]: Listen: "Hello: 6"
+[listener-2] [INFO] [1764819714.037672460] [listener]: Listen: "Hello: 44"
+[talker-1] [INFO] [1764819714.354553293] [talker]: Publishing: "Hello: 7"
+[listener-2] [INFO] [1764819714.355516876] [listener]: Listen: "Hello: 7"
+[listener-2] [INFO] [1764819714.539235002] [listener]: Listen: "Hello: 45"
